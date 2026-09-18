@@ -1,0 +1,2 @@
+[functions.supplier-proxy]
+verify_jwt = true
